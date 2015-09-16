@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 文殊師利所說般若波羅蜜經
+#+DATE: 2015-08-30 19:44:25.308630
+#+PROPERTY: JUAN 0
